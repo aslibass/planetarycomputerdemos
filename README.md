@@ -1,3 +1,6 @@
+
+<img src="media/image1.png" style="width:9.72838in;height:9.21429in" /><img src="media/image16.jpg" style="width:2.97391in;height:1.26667in" />
+
 <table>
 <colgroup>
 <col style="width: 100%" />
@@ -17,27 +20,16 @@
 </tbody>
 </table>
 
-<img src="media/image1.png" style="width:9.72838in;height:9.21429in" /><img src="media/image2.png" style="width:2.97391in;height:1.26667in" /><img src="media/image3.jpeg" style="width:1.33364in;height:1.33364in" />
 
 # Contents
 
-[2 Introduction [3](#introduction)](#introduction)
-
-[3 Pre-requisites [4](#pre-requisites)](#pre-requisites)
-
-[4 Demonstrate the Data Catalog
-[5](#demonstrate-the-data-catalog)](#demonstrate-the-data-catalog)
-
-[5 Demonstrate the Explorer
-[6](#demonstrate-the-explorer)](#demonstrate-the-explorer)
-
-[6 Demonstrate the Hub [8](#demonstrate-the-hub)](#demonstrate-the-hub)
-
-[7 Make Changes and Run the notebook
-[8](#make-changes-and-run-the-notebook)](#make-changes-and-run-the-notebook)
-
-[8 Theoretical - Detecting Coral Bleaching Events
-[13](#theoretical---detecting-coral-bleaching-events)](#theoretical---detecting-coral-bleaching-events)
+Introduction 
+Pre-requisites 
+Demonstrate the Data Catalog
+Demonstrate the Explorer
+Demonstrate the Hub 
+Make Changes and Run the notebook
+Theoretical - Detecting Coral Bleaching Events
 
 # Introduction
 
